@@ -10,6 +10,7 @@
 
 ### Lecture Notes and Codes
 1. [30/09/2021](https://github.com/melihcanyardi/PythonCourse/blob/main/Lecture_Notes_and_Codes/CSSM502_210930.ipynb)
+2. [05/10/2021](https://github.com/melihcanyardi/PythonCourse/blob/main/Lecture_Notes_and_Codes/CSSM502_211005.ipynb)
 
 ### Learn Python 3 the Hard Way (lpthw) - Exercises
 1. [ex1.py](https://github.com/melihcanyardi/PythonCourse/blob/main/lpthw/ex1.py)
