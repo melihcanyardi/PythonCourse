@@ -53,5 +53,9 @@
 31. [ex31.py](https://github.com/melihcanyardi/PythonCourse/blob/main/lpthw/ex31.py)
 32. [ex32.py](https://github.com/melihcanyardi/PythonCourse/blob/main/lpthw/ex32.py)
 33. [ex33.py](https://github.com/melihcanyardi/PythonCourse/blob/main/lpthw/ex33.py)
-34. No code
+34. No code.
 35. [ex35.py](https://github.com/melihcanyardi/PythonCourse/blob/main/lpthw/ex35.py)
+36. No code.
+37. No code.
+38. [ex38.py](https://github.com/melihcanyardi/PythonCourse/blob/main/lpthw/ex38.py)
+39. [ex39.py](https://github.com/melihcanyardi/PythonCourse/blob/main/lpthw/ex39.py)
