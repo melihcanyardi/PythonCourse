@@ -8,16 +8,17 @@
 3. Graded Homework - 3
 4. Graded Homework - 4
 
-### Lecture Notes and Codes
+### [Lecture Notes and Codes](https://github.com/melihcanyardi/PythonCourse/tree/main/Lecture_Notes_and_Codes)
 1. [30/09/2021](https://github.com/melihcanyardi/PythonCourse/blob/main/Lecture_Notes_and_Codes/CSSM502_210930.ipynb)
 2. [05/10/2021](https://github.com/melihcanyardi/PythonCourse/blob/main/Lecture_Notes_and_Codes/CSSM502_211005.ipynb)
 3. [07/10/2021](https://github.com/melihcanyardi/PythonCourse/blob/main/Lecture_Notes_and_Codes/CSSM502_211007.ipynb)
 
 
-### Labs
+### [Labs](https://github.com/melihcanyardi/PythonCourse/tree/main/labs)
 1. [lab1.py](https://github.com/melihcanyardi/PythonCourse/blob/main/labs/lab1.py)
+2. [clock_lab.py](https://github.com/melihcanyardi/PythonCourse/blob/main/labs/clock_lab.py)
 
-### Learn Python 3 the Hard Way (lpthw) - Exercises
+### [Learn Python 3 the Hard Way (lpthw) - Exercises](https://github.com/melihcanyardi/PythonCourse/tree/main/lpthw)
 1. [ex1.py](https://github.com/melihcanyardi/PythonCourse/blob/main/lpthw/ex1.py)
 2. [ex2.py](https://github.com/melihcanyardi/PythonCourse/blob/main/lpthw/ex2.py)
 3. [ex3.py](https://github.com/melihcanyardi/PythonCourse/blob/main/lpthw/ex3.py)
