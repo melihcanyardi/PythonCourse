@@ -60,4 +60,4 @@
 38. [ex38.py](https://github.com/melihcanyardi/PythonCourse/blob/main/lpthw/ex38.py)
 39. [ex39.py](https://github.com/melihcanyardi/PythonCourse/blob/main/lpthw/ex39.py)
 40. [ex40.py](https://github.com/melihcanyardi/PythonCourse/blob/main/lpthw/ex40.py), [ex40a.py](https://github.com/melihcanyardi/PythonCourse/blob/main/lpthw/ex40a.py), [mystuff.py](https://github.com/melihcanyardi/PythonCourse/blob/main/lpthw/mystuff.py)
-41. [ex41.py](https://github.com/melihcanyardi/PythonCourse/blob/main/lpthw/ex41.py), [mystuff.py](https://github.com/melihcanyardi/PythonCourse/blob/main/lpthw/mystuff.py)
+41. [ex41.py](https://github.com/melihcanyardi/PythonCourse/blob/main/lpthw/ex41.py), [oop_test.py](https://github.com/melihcanyardi/PythonCourse/blob/main/lpthw/oop_test.py)
