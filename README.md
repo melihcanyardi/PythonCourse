@@ -62,3 +62,6 @@
 39. [ex39.py](https://github.com/melihcanyardi/PythonCourse/blob/main/lpthw/ex39.py)
 40. [ex40.py](https://github.com/melihcanyardi/PythonCourse/blob/main/lpthw/ex40.py), [ex40a.py](https://github.com/melihcanyardi/PythonCourse/blob/main/lpthw/ex40a.py), [mystuff.py](https://github.com/melihcanyardi/PythonCourse/blob/main/lpthw/mystuff.py)
 41. [ex41.py](https://github.com/melihcanyardi/PythonCourse/blob/main/lpthw/ex41.py), [oop_test.py](https://github.com/melihcanyardi/PythonCourse/blob/main/lpthw/oop_test.py)
+42. [ex42.py](https://github.com/melihcanyardi/PythonCourse/blob/main/lpthw/ex42.py)
+43. [ex43.py](https://github.com/melihcanyardi/PythonCourse/blob/main/lpthw/ex43.py), [ex43_classes.py](https://github.com/melihcanyardi/PythonCourse/blob/main/lpthw/ex43_classes.py)
+44. [ex44a.py](https://github.com/melihcanyardi/PythonCourse/blob/main/lpthw/ex44a.py), [ex44b.py](https://github.com/melihcanyardi/PythonCourse/blob/main/lpthw/ex44b.py), [ex44c.py](https://github.com/melihcanyardi/PythonCourse/blob/main/lpthw/ex44c.py), [ex44d.py](https://github.com/melihcanyardi/PythonCourse/blob/main/lpthw/ex44d.py), [ex44e.py](https://github.com/melihcanyardi/PythonCourse/blob/main/lpthw/ex44e.py)
