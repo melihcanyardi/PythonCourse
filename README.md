@@ -3,10 +3,10 @@
 
 
 ### Homeworks
-1. Graded Homework - 1
-2. Graded Homework - 2
-3. Graded Homework - 3
-4. Graded Homework - 4
+1. [hw1.ipynb](https://github.com/melihcanyardi/PythonCourse/blob/main/Homeworks/hw1.ipynb) | [hw1.py](https://github.com/melihcanyardi/PythonCourse/blob/main/Homeworks/hw1.py)
+2. hw2
+3. hw3
+4. hw4
 
 ### [Lecture Notes and Codes](https://github.com/melihcanyardi/PythonCourse/tree/main/Lecture_Notes_and_Codes)
 1. [30/09/2021](https://github.com/melihcanyardi/PythonCourse/blob/main/Lecture_Notes_and_Codes/CSSM502_210930.ipynb)
