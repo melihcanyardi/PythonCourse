@@ -17,6 +17,7 @@
 6. [19/10/2021](https://github.com/melihcanyardi/PythonCourse/blob/main/Lecture_Notes_and_Codes/CSSM502_211019.ipynb)
 7. [21/10/2021](https://github.com/melihcanyardi/PythonCourse/blob/main/Lecture_Notes_and_Codes/CSSM502_211021.ipynb)
 8. [26/10/2021](https://github.com/melihcanyardi/PythonCourse/blob/main/Lecture_Notes_and_Codes/CSSM502_211026.ipynb)
+9. [09/11/2021](https://github.com/melihcanyardi/PythonCourse/blob/main/Lecture_Notes_and_Codes/CSSM502_211109.ipynb)
 
 
 ### [Labs](https://github.com/melihcanyardi/PythonCourse/tree/main/labs)
@@ -24,6 +25,7 @@
 2. [clock_lab.py](https://github.com/melihcanyardi/PythonCourse/blob/main/labs/clock_lab.py)
 
 ### [Learn Python 3 the Hard Way (lpthw) - Exercises](https://github.com/melihcanyardi/PythonCourse/tree/main/lpthw)
+- [Learn Python 3 the Hard Way](https://learnpythonthehardway.org/python3/)
 1. [ex1.py](https://github.com/melihcanyardi/PythonCourse/blob/main/lpthw/ex1.py)
 2. [ex2.py](https://github.com/melihcanyardi/PythonCourse/blob/main/lpthw/ex2.py)
 3. [ex3.py](https://github.com/melihcanyardi/PythonCourse/blob/main/lpthw/ex3.py)
