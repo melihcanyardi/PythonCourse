@@ -30,6 +30,7 @@
 19. [23/12/2021](https://github.com/melihcanyardi/PythonCourse/blob/main/Lecture_Notes_and_Codes/CSSM502_211223.ipynb)
 20. [28/12/2021](https://github.com/melihcanyardi/PythonCourse/blob/main/Lecture_Notes_and_Codes/CSSM502_211228.ipynb)
 21. [30/12/2021](https://github.com/melihcanyardi/PythonCourse/blob/main/Lecture_Notes_and_Codes/CSSM502_211230.ipynb)
+22. [04/01/2021](https://github.com/melihcanyardi/PythonCourse/blob/main/Lecture_Notes_and_Codes/CSSM502_220104.ipynb)
 
 
 ### [Labs](https://github.com/melihcanyardi/PythonCourse/tree/main/labs)
