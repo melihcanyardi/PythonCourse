@@ -3,7 +3,7 @@
 
 
 ### [Homeworks](https://github.com/melihcanyardi/PythonCourse/tree/main/Homeworks)
-1. [hw1.ipynb](https://github.com/melihcanyardi/PythonCourse/blob/main/Homeworks/hw1.ipynb) | [hw1.py](https://github.com/melihcanyardi/PythonCourse/blob/main/Homeworks/hw1.py)
+1. [hw1.ipynb](https://github.com/melihcanyardi/PythonCourse/blob/main/Homeworks/hw1/hw1.ipynb) | [hw1.py](https://github.com/melihcanyardi/PythonCourse/blob/main/Homeworks/hw1/hw1.py)
 2. hw2
 3. [hw3.ipynb](https://github.com/melihcanyardi/PythonCourse/blob/main/Homeworks/hw3/hw3.ipynb) | [hw3_report.pdf](https://github.com/melihcanyardi/PythonCourse/blob/main/Homeworks/hw3/hw3_report.pdf)
 4. hw4
