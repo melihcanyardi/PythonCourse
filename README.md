@@ -3,9 +3,17 @@
 
 
 ### [Homeworks](https://github.com/melihcanyardi/PythonCourse/tree/main/Homeworks)
-1. [hw1.ipynb](https://github.com/melihcanyardi/PythonCourse/blob/main/Homeworks/hw1/hw1.ipynb) | [hw1.py](https://github.com/melihcanyardi/PythonCourse/blob/main/Homeworks/hw1/hw1.py)
-2. hw2
-3. [hw3.ipynb](https://github.com/melihcanyardi/PythonCourse/blob/main/Homeworks/hw3/hw3.ipynb) | [hw3_report.pdf](https://github.com/melihcanyardi/PythonCourse/blob/main/Homeworks/hw3/hw3_report.pdf)
+1. [hw1](https://github.com/melihcanyardi/PythonCourse/tree/main/Homeworks/hw1)
+  - [hw1.ipynb](https://github.com/melihcanyardi/PythonCourse/blob/main/Homeworks/hw1/hw1.ipynb) | [hw1.py](https://github.com/melihcanyardi/PythonCourse/blob/main/Homeworks/hw1/hw1.py)
+2. [hw2](https://github.com/melihcanyardi/PythonCourse/tree/main/Homeworks/hw2)
+  - [linear_regression.py](https://github.com/melihcanyardi/PythonCourse/blob/main/Homeworks/hw2/linear_regression.py)
+  - [linear_regression_test.py](https://github.com/melihcanyardi/PythonCourse/blob/main/Homeworks/hw2/linear_regression_test.py)
+  - [retrieve_data_run_regression.py](https://github.com/melihcanyardi/PythonCourse/blob/main/Homeworks/hw2/retrieve_data_run_regression.py)
+  - [data.csv](https://github.com/melihcanyardi/PythonCourse/blob/main/Homeworks/hw2/data.csv)
+  - [h2_report.pdf](https://github.com/melihcanyardi/PythonCourse/blob/main/Homeworks/hw2/hw2_report.pdf)
+3. [hw3](https://github.com/melihcanyardi/PythonCourse/tree/main/Homeworks/hw3)
+  - [hw3.ipynb](https://github.com/melihcanyardi/PythonCourse/blob/main/Homeworks/hw3/hw3.ipynb)
+  - [hw3_report.pdf](https://github.com/melihcanyardi/PythonCourse/blob/main/Homeworks/hw3/hw3_report.pdf)
 4. hw4
 
 ### [Lecture Notes and Codes](https://github.com/melihcanyardi/PythonCourse/tree/main/Lecture_Notes_and_Codes)
