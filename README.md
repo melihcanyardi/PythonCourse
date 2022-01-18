@@ -14,7 +14,12 @@
 3. [hw3](https://github.com/melihcanyardi/PythonCourse/tree/main/Homeworks/hw3)
   - [hw3.ipynb](https://github.com/melihcanyardi/PythonCourse/blob/main/Homeworks/hw3/hw3.ipynb)
   - [hw3_report.pdf](https://github.com/melihcanyardi/PythonCourse/blob/main/Homeworks/hw3/hw3_report.pdf)
-4. hw4
+
+### [Final Project](https://github.com/melihcanyardi/PythonCourse/tree/main/Final_Project)
+1. [Download Tweets](https://github.com/melihcanyardi/PythonCourse/blob/main/Final_Project/1_CSSM502_Project-Download_Tweets.ipynb)
+2. [Combine Sentiment Data](https://github.com/melihcanyardi/PythonCourse/blob/main/Final_Project/2_CSSM502_Project-Combine_Sentiment_Data.ipynb)
+3. [Data Preprocessing](https://github.com/melihcanyardi/PythonCourse/blob/main/Final_Project/3_CSSM502_Project-Data_Preprocessing.ipynb)
+4. [Sentiment Analysis](https://github.com/melihcanyardi/PythonCourse/blob/main/Final_Project/4_CSSM502_Project-Sentiment_Analysis.ipynb)
 
 ### [Lecture Notes and Codes](https://github.com/melihcanyardi/PythonCourse/tree/main/Lecture_Notes_and_Codes)
 1. [30/09/2021](https://github.com/melihcanyardi/PythonCourse/blob/main/Lecture_Notes_and_Codes/CSSM502_210930.ipynb)
